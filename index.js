@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const products = [
-        { label: 'MIO i125', price: 78000.00, qtyElement: document.getElementById('qty1') },
+        { label: 'MIO i125', price: 80000.00, qtyElement: document.getElementById('qty1') },
         { label: 'NMAX ABS', price: 151900.00, qtyElement: document.getElementById('qty2') },
         { label: 'RAIDER R150', price: 106900.00, qtyElement: document.getElementById('qty3') },
         { label: 'SMASH', price: 60200.00, qtyElement: document.getElementById('qty4') },
