@@ -1,11 +1,11 @@
 document.addEventListener('DOMContentLoaded', () => {
     const products = [
-        { label: '', price: 35000.00, qtyElement: document.getElementById('qty1') },
-        { label: 'Prada', price: 10000.00, qtyElement: document.getElementById('qty2') },
-        { label: 'Channel', price: 62000.00, qtyElement: document.getElementById('qty3') },
-        { label: 'Louis Vuitton', price: 30000.00, qtyElement: document.getElementById('qty4') },
-        { label: 'Gucci', price: 20000.00, qtyElement: document.getElementById('qty5') },
-        { label: 'Lacoste', price: 30000.00, qtyElement: document.getElementById('qty6') },
+        { label: 'MIO i125', price: 78000.00, qtyElement: document.getElementById('qty1') },
+        { label: 'NMAX ABS', price: 151900.00, qtyElement: document.getElementById('qty2') },
+        { label: 'RAIDER R150', price: 106900.00, qtyElement: document.getElementById('qty3') },
+        { label: 'SMASH', price: 60200.00, qtyElement: document.getElementById('qty4') },
+        { label: 'SNIPER 155R', price: 127700.00, qtyElement: document.getElementById('qty5') },
+        { label: 'XMAX', price: 306000.00, qtyElement: document.getElementById('qty6') },
     ];
 
     const carts = document.getElementById("carts");
